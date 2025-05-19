@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dr.ngominhtu/)
 [![Threads](https://img.shields.io/badge/Threads-Profile-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@dr.ngominhtu)
 [![Telegram](https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/drng0m1nhtu)
-[![Phone](https://img.shields.io/badge/Phone-Call-%23007BFF.svg?style=for-the-badge&logo=phone&logoColor=white)](tel:+84337593138)
+
 
 
 
