@@ -1,5 +1,5 @@
 
-# 🌐 Socials:
+# 🌐 [Socials]
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/daturaseeker/) 
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dr.ngominhtu/)
 [![Threads](https://img.shields.io/badge/Threads-Profile-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@dr.ngominhtu)
@@ -38,7 +38,7 @@
 
 
 
-# 📊 GitHub Stats
+# 📊 [GitHub Stats]
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 33%; text-align: center;">
@@ -53,14 +53,14 @@
   </tr>
 </table>
 
-## 🚀 Projects
+## 🚀 [Projects]
 - [ParameterTrackingSystem ABU Robocon 2025](https://github.com/drngominhtu/ESP32_WEBSERVER_RBCTEAM_V2.git)
 - [ESP32-cam AccessPoint](https://github.com/drngominhtu/ESP32_CAM_LOCALWEB_V2.git)
 
 
 
 
-# 🏆 GitHub Trophies
+# 🏆 [GitHub Trophies]
 ![](https://github-profile-trophy.vercel.app/?username=drngominhtu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
