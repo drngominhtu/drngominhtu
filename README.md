@@ -1,4 +1,4 @@
-[![TypingSVG](https://readme-typing-svg.demolab.com/?lines=Dr.ngominhtu;24/08/2004;Everyone+deserve+a+big+bread;Phenikaa+University;ベトナムから;I+love+Taylor+Swift;and+RaspberryPi;and+Honda+Civic;and+ESP32+Deauther;I+attended+ABU+Robocon+Vietnam+2025)](https://git.io/typing-svg)
+[![TypingSVG](https://readme-typing-svg.demolab.com/?lines=Dr.ngominhtu;24/08/2004;Everyone+deserve+a+big+bread;Phenikaa+University;ベトナム人;I+love+Taylor+Swift;and+RaspberryPi;and+Honda+Civic;and+ESP32+Deauther;I+attended+ABU+Robocon+Vietnam+2025)](https://git.io/typing-svg)
 
 # 🌐 [Socials]
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/daturaseeker/) 
