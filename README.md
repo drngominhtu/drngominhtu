@@ -29,51 +29,57 @@
 </div>
 
 ---
-
 ## Tech Stack
 
 ### Programming Languages
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=FFF&color=00599C"/>
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=FFF&color=00599C"/>
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/CircuitPython-FF8C00?style=for-the-badge&logo=python&logoColor=white"/>
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 4px; overflow-x: auto; width: 100%;">
+  <img src="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=FFF&color=00599C" alt="C" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=FFF&color=00599C" alt="C++" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/CircuitPython-FF8C00?style=for-the-badge&logo=python&logoColor=white" alt="CircuitPython" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="height:30px; flex-shrink:0;"/>
 </div>
 
 ### Embedded Systems
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/ESP-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white"/>
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/ARM%20Cortex-00BFFF?style=for-the-badge&logo=arm&logoColor=white&labelColor=00BFFF"/>
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 4px; overflow-x: auto; width: 100%;">
+  <img src="https://img.shields.io/badge/ESP-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white" alt="STM32" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/ARM%20Cortex-00BFFF?style=for-the-badge&logo=arm&logoColor=white&labelColor=00BFFF" alt="ARM Cortex" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" style="height:30px; flex-shrink:0;"/>
 </div>
 
 ### Tools & Skills
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/Adobe-F00?style=for-the-badge&logo=adobe&logoColor=white"/>
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/MQTT-8A2BE2?style=for-the-badge&logo=mqtt&logoColor=white"/>
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img style="flex: 1 1 120px; max-width: 140px;" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 4px; overflow-x: auto; width: 100%;">
+  <img src="https://img.shields.io/badge/Adobe-F00?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/MQTT-8A2BE2?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" style="height:30px; flex-shrink:0;"/>
 </div>
-
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
-<div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=drngominhtu&theme=dark&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=drngominhtu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drngominhtu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
-</div>
+<table style="width:100%;">
+  <tr>
+    <td style="width:33%; text-align:center;">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=drngominhtu&theme=dark&hide_border=false" height="150px" />
+    </td>
+    <td style="width:33%; text-align:center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=drngominhtu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150px" />
+    </td>
+    <td style="width:33%; text-align:center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drngominhtu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
