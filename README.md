@@ -1,4 +1,9 @@
-[![TypingSVG](https://readme-typing-svg.demolab.com/?lines=Dr.ngominhtu;24/08/2004;Everyone+deserve+a+big+bread;Phenikaa+University;ベトナム人;I+love+Taylor+Swift;and+RaspberryPi;and+Honda+Civic;and+ESP32+Deauther;I+attended+ABU+Robocon+Vietnam+2025)](https://git.io/typing-svg)
+[![TypingSVG](https://readme-typing-svg.demolab.com/?lines=Dr.ngominhtu;24/08/2004;Everyone+deserve+a+big+bread;Phenikaa+University;ベトナム人;I+love+Taylor+Swift;and+RaspberryPi;and+Honda+Civic;and+ESP32+Wifi+Killer;I+attended+ABU+Robocon+Vietnam+2025)](https://git.io/typing-svg)
+
+<img src="https://github.com/user-attachments/assets/f23c95b4-e81a-4b97-bedd-65beabfdcdb6" alt="gif" width="100%" height="250">
+
+
+
 
 # 🌐 [Socials]
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/daturaseeker/) 
@@ -54,7 +59,7 @@
   </tr>
 </table>
 
-## 🚀 [Projects]
+# 🚀 [Projects]
 - [ParameterTrackingSystem ABU Robocon 2025](https://github.com/drngominhtu/ESP32_WEBSERVER_RBCTEAM_V2.git)
 - [ESP32-cam AccessPoint](https://github.com/drngominhtu/ESP32_CAM_LOCALWEB_V2.git)
 
