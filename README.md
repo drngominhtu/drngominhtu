@@ -1,9 +1,5 @@
 <!-- Typing animation -->
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Dr.ngominhtu;24/08/2004;Everyone+deserve+a+big+bread;Phenikaa+University;ベトナム      人;I+love+Taylor+Swift;and+RaspberryPi;and+Honda+Civic;and+ESP32+Wifi+Killer;I+attended+ABU+Robocon+Vietnam+2025" alt="Typing SVG" />
-  </a>
-</p>
+
 
 <!-- Banner or GIF -->
 <p align="left">
@@ -12,21 +8,23 @@
 
 ---
 
-##  Socials
-<div align="left">
-  <a href="https://www.facebook.com/daturaseeker/">
-    <img src="https://img.shields.io/badge/Facebook-Profile-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
+## Socials
+
+<div align="left" style="display: flex; justify-content: space-between; gap: 10px; max-width: 600px;">
+  <a href="https://www.facebook.com/daturaseeker/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/dr.ngominhtu/">
-    <img src="https://img.shields.io/badge/Instagram-Profile-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <a href="https://www.instagram.com/dr.ngominhtu/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.threads.net/@dr.ngominhtu">
-    <img src="https://img.shields.io/badge/Threads-Profile-000000?style=for-the-badge&logo=threads&logoColor=white" />
+  <a href="https://www.threads.net/@dr.ngominhtu" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Threads-%23000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
   </a>
-  <a href="https://t.me/drng0m1nhtu">
-    <img src="https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://t.me/drng0m1nhtu" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
+
 
 ---
 ## Tech Stack
