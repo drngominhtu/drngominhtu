@@ -1,11 +1,11 @@
 <!-- Typing animation -->
 
 
-<!-- Banner or GIF 
+
 <p align="left">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExendrdTk2YXA0MHF5bzZxMmVvaXZ0ZHJrbDVpN2hieHI3ZnQwODd2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YZX4FWwOJTK5W/giphy.gif" alt="gif" width="100%" height="50%">
 </p>
--->
+
 ---
 
 ## Socials
@@ -19,9 +19,6 @@
   </a>
   <a href="https://www.threads.net/@dr.ngominhtu" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Threads-%23000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
-  </a>
-  <a href="https://t.me/drng0m1nhtu" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
 
