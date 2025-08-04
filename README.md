@@ -1,11 +1,11 @@
 <!-- Typing animation -->
 
 
-
+<!--
 <p align="left">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExendrdTk2YXA0MHF5bzZxMmVvaXZ0ZHJrbDVpN2hieHI3ZnQwODd2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YZX4FWwOJTK5W/giphy.gif" alt="gif" width="100%" height="50%">
 </p>
-
+-->
 ---
 
 ## Socials
