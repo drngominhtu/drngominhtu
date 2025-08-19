@@ -7,23 +7,6 @@
 </p>
 -->
 ---
-
-## Socials
-
-<div align="left" style="display: flex; justify-content: space-between; gap: 10px; max-width: 600px;">
-  <a href="https://www.facebook.com/daturaseeker/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/dr.ngominhtu/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.threads.net/@dr.ngominhtu" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Threads-%23000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
-  </a>
-</div>
-
-
----
 ## Tech Stack
 
 ### Programming Languages
@@ -56,6 +39,11 @@
   <img src="https://img.shields.io/badge/MQTT-8A2BE2?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" style="height:30px; flex-shrink:0;"/>
   <img src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" style="height:30px; flex-shrink:0;"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/Network-228B22?style=for-the-badge&logo=icloud&logoColor=white" alt="Network" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="height:30px; flex-shrink:0;"/>
+
+
 </div>
 
 ---
