@@ -66,10 +66,6 @@
 
 ---
 
-##  GitHub Trophies
-<p align="left" style="width: 100%; margin: 0; padding: 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=drngominhtu&theme=radical&no-frame=false&no-bg=false&margin-w=4" style="width: 100%; height: auto;" />
-</p>
 
 
 ---
