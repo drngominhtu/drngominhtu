@@ -72,4 +72,4 @@
 
 ##  Projects
 - [ParameterTrackingSystem ABU Robocon 2025](https://github.com/drngominhtu/ESP32_WEBSERVER_RBCTEAM_V2.git)
-- [ESP32-cam AccessPoint](https://github.com/drngominhtu/ESP32_CAM_LOCALWEB_V2.git)
+- [Cisco Packet Tracer Labs](https://github.com/drngominhtu/PacketTracer_Labs.git)
