@@ -42,6 +42,8 @@
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" style="height:30px; flex-shrink:0;"/>
   <img src="https://img.shields.io/badge/Network-228B22?style=for-the-badge&logo=icloud&logoColor=white" alt="Network" style="height:30px; flex-shrink:0;"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="height:30px; flex-shrink:0;"/>
+  <img src="https://img.shields.io/badge/Packet_Tracer-FFFFFF?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Packet Tracer" style="height:30px; flex-shrink:0;"/>
+
 
 
 </div>
