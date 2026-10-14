@@ -43,8 +43,8 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" style="height:30px; flex-shrink:0;"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" style="height:30px; flex-shrink:0;"/>
   <img src="https://img.shields.io/badge/Network-228B22?style=for-the-badge&logo=icloud&logoColor=white" alt="Network" style="height:30px; flex-shrink:0;"/>
-  <!--<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="height:30px; flex-shrink:0;"/> -->
-  <img src="https://img.shields.io/badge/Packet_Tracer-FFFFFF?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Packet Tracer" style="height:30px; flex-shrink:0;"/>
+  <!--<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="height:30px; flex-shrink:0;"/> 
+  <img src="https://img.shields.io/badge/Packet_Tracer-FFFFFF?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Packet Tracer" style="height:30px; flex-shrink:0;"/> -->
     <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" style="height:30px; flex-shrink:0;"/>
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" style="height:30px; flex-shrink:0;"/>
   <img src="https://img.shields.io/badge/vCloud_Director-4285F4?style=for-the-badge&logo=vmware&logoColor=white" alt="vCloud Director" style="height:30px; flex-shrink:0;"/>
