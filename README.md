@@ -38,12 +38,12 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="height:30px; flex-shrink:0;"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="height:30px; flex-shrink:0;"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="height:30px; flex-shrink:0;"/>
-  <img src="https://img.shields.io/badge/MQTT-8A2BE2?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" style="height:30px; flex-shrink:0;"/>
+  <!--<img src="https://img.shields.io/badge/MQTT-8A2BE2?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" style="height:30px; flex-shrink:0;"/> -->
   <img src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" style="height:30px; flex-shrink:0;"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" style="height:30px; flex-shrink:0;"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" style="height:30px; flex-shrink:0;"/>
   <img src="https://img.shields.io/badge/Network-228B22?style=for-the-badge&logo=icloud&logoColor=white" alt="Network" style="height:30px; flex-shrink:0;"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="height:30px; flex-shrink:0;"/>
+  <!--<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="height:30px; flex-shrink:0;"/> -->
   <img src="https://img.shields.io/badge/Packet_Tracer-FFFFFF?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Packet Tracer" style="height:30px; flex-shrink:0;"/>
     <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" style="height:30px; flex-shrink:0;"/>
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" style="height:30px; flex-shrink:0;"/>
